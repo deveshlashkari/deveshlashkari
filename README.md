@@ -15,12 +15,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="20%" align="center">
+        <span><strong>Redux</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>Javascript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Node</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Firebase</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>React Native</strong></span><br><br><br>
@@ -74,7 +82,6 @@
 <br>
 
 ## Wanna say Hi 👋👋
-
 
 
   <a target="_blank" href="https://www.linkedin.com/in/deveshlashkari/">
