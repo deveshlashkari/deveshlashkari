@@ -22,7 +22,7 @@
         <span><strong>Node</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="40%" align="center">
         <span><strong>React Native</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
