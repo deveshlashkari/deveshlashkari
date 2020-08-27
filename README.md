@@ -7,41 +7,145 @@
 📢 Also a Community Enthusiast
 
 ## Technologies I work on - 
+
 <table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
+<thead>
+  <tr>
+    <th colspan="8">Web</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="20%" align="center">
         <span><strong>React</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>Redux</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </td>
-      <td width="20%" align="center">
+    <td width="20%" align="center">
         <span><strong>Javascript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="20%" align="center">
+    <td width="20%" align="center">
+        <span><strong>HTML</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+    <td width="20%" align="center">
+        <span><strong>CSS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+     <td width="20%" align="center">
+        <span><strong>Bootstrap</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+    <td width="20%" align="center">
+        <span><strong>Material UI</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+      </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="8">Backend</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+     <td width="20%" align="center">
         <span><strong>Node</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>Firebase</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+    <td width="20%" align="center">
+        <span><strong>Express</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
-      <td width="20%" align="center">
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="8">State Management</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+     <td width="20%" align="center">
+        <span><strong>Redux</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+    
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="8">Mobile</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="20%" align="center">
         <span><strong>React Native</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="20%" align="center">
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="8">Database</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+     <td width="20%" align="center">
+        <span><strong>Firebase</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+     <td width="20%" align="center">
+        <span><strong>MongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="8">Cloud</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td width="20%" align="center">
         <span><strong>Salesforce</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/salesforce.svg">
       </td>
-      </tbody>
+     <td width="20%" align="center">
+        <span><strong>Google Cloud Platform</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
+      </td>
+  </tr>
+</tbody>
 </table>
-<br>
-
 
 ## Technologies I am learning -
 
