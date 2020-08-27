@@ -30,7 +30,7 @@
         <span><strong>Firebase</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>React Native</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
