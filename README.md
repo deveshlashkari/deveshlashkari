@@ -35,7 +35,7 @@
 <br>
 
 
-## Technologies I am learning
+## Technologies I am learning -
 
 
 <table>
@@ -51,7 +51,7 @@
 
 <br>
 
-## Goals for 2020 
+## Goals for 2020 -
 
 
 <table>
