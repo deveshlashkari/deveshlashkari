@@ -8,8 +8,7 @@
 
 # Technologies I work on - 
 
- 
- ## Web - 
+  
  <div>
 <p align="center">
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/react.svg">
@@ -28,7 +27,7 @@
 </div>
   
 
-## Technologies I am learning -
+# Technologies I am learning -
 
 <div>
   <p align="center">
