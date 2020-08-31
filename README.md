@@ -18,41 +18,15 @@
   <img  width="40" height="40" src="https://cdn.svgporn.com/logos/css-3.svg">
    <img  width="40" height="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
      <img  width="40" height="40" src="https://cdn.svgporn.com/logos/material-ui.svg">
-  </p>
-</div>
-  
-  ## Backend - 
-
- <div>
-<p align="center">
-<img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+ <img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
    <img width="40" height="40" src="https://cdn.svgporn.com/logos/express.svg">
-  </p>
-</div>
-
-## Mobile - 
-
-
- <div>
-<p align="center">
-<img height="40" width="40" src="https://cdn.svgporn.com/logos/react.svg">
-  </p>
-</div>
-
-## Database - 
-<div>
-<p align="center">
-<img height="60" width="60" src="https://cdn.svgporn.com/logos/mongodb.svg">
-  </p>
-</div>
-
-## Cloud - 
-<div>
-<p align="center">
-<img height="40" width="40" src="https://cdn.svgporn.com/logos/salesforce.svg">
+ <img height="40" width="40" src="https://cdn.svgporn.com/logos/react.svg">
+ <img height="60" width="60" src="https://cdn.svgporn.com/logos/mongodb.svg">
+ <img height="40" width="40" src="https://cdn.svgporn.com/logos/salesforce.svg">
   <img height="40" width="40" src="https://cdn.svgporn.com/logos/google-cloud.svg">
   </p>
 </div>
+  
 
 ## Technologies I am learning -
 
