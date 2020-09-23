@@ -8,7 +8,7 @@
 
  ![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=deveshlashkari&show_icons=true&theme=tokyonight)
 
-# Technologies I work on - 
+## Technologies I work on - 
 
   
  <div>
@@ -29,7 +29,7 @@
 </div>
   
 
-# Technologies I am learning -
+## Technologies I am learning -
 
 <div>
   <p align="center">
@@ -50,15 +50,15 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="200px">
       </td>
       <td width="20%" align="center">
         <span><strong>Meet New People</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="200px">
       </td>
       <td width="20%" align="center">
         <span><strong>Become Fit</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/iFGhsoee2xTOM/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/iFGhsoee2xTOM/giphy.gif" width="200px">
       </td>
       </tbody>
 </table>
