@@ -6,6 +6,8 @@
 🎮 I am a gamer <br>
 📢 Also a Community Enthusiast
 
+ ![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=deveshlashkari&show_icons=true&theme=tokyonight)
+
 # Technologies I work on - 
 
   
@@ -35,6 +37,10 @@
         <img height="40" width="40" src="https://cdn.svgporn.com/logos/firebase.svg">
     </p>
   </div>
+  
+  
+ 
+
 
 ## Goals for 2020 -
 
