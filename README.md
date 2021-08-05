@@ -43,7 +43,7 @@
 
 
 ## Goals for 2020 -
-
+<!-- 
 
 <table>
   <tbody>
@@ -61,7 +61,7 @@
         <img height="200px" src="https://media.giphy.com/media/iFGhsoee2xTOM/giphy.gif" width="200px">
       </td>
       </tbody>
-</table>
+</table> -->
 <br>
 
 ## Wanna say Hi 👋👋
