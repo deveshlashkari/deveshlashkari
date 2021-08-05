@@ -8,8 +8,8 @@
 
  ![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=deveshlashkari&show_icons=true&theme=tokyonight)
 
-## Technologies I work on - 
 
+<!-- 
   
  <div>
 <p align="center">
@@ -38,7 +38,7 @@
     </p>
   </div>
   
-  
+   -->
  
 
 
