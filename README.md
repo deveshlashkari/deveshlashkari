@@ -42,7 +42,6 @@
  
 
 
-## Goals for 2020 -
 <!-- 
 
 <table>
