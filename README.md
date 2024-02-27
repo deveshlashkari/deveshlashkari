@@ -6,7 +6,6 @@
 🎮 I am a gamer <br>
 📢 Also a Community Enthusiast
 
- ![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=deveshlashkari&show_icons=true&theme=tokyonight)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshlashkari&layout=compact&theme=tokyonight)
 
